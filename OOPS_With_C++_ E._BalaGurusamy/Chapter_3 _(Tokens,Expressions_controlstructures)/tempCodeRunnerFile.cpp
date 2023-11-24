@@ -1,0 +1,1 @@
+ cout << "\nPlayer's name " << setw(5) <<" Runs" << setw(5) << " Innings" << setw(5) << "Times Not Out"  << setw(5) << "Average runs per inning " ;
