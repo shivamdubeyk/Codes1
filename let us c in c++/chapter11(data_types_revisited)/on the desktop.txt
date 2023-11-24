@@ -1,0 +1,5 @@
+on the desktop
+
+override the default
+
+use git and optional unix
